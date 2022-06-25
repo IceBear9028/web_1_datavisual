@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 import {useState} from 'react';
+import {Component} from 'react';
+import Plot from 'react-plotly.js';
 
 
 function App() {
